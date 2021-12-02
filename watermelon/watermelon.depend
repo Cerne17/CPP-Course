@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1638218521 source:d:\c++ course\watermelon\main.cpp
+	<iostream>
+	<cmath>
+
